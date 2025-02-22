@@ -1,3 +1,7 @@
+// Victor Strachan, Jehong Kim, Weihua Huang, Mason Fowble
+// CS202 Winter 2025
+// Feb. 7 Team Assignment 
+
 public class RecurrenceRelation {
   public static void main(String[] args) {
     int a_1 = 5;
