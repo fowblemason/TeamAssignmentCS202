@@ -1,3 +1,7 @@
+// Victor Strachan, Jehong Kim, Weihua Huang, Mason Fowble
+// CS202 Winter 2025
+// Feb. 7 Team Assignment 
+
 public class TowerOfHanoi {
 	public static void main(String[] args) {
 		towerOfHanoi(4);
@@ -17,4 +21,4 @@ public class TowerOfHanoi {
 		toreturn += tOH(n-1, middle, third, first);
 		return toreturn;
 	}
-}
+} 
